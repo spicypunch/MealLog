@@ -8,6 +8,8 @@ import UIKit
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
     GeneratedPluginRegistrant.register(with: self)
+    FLTGoogleMobileAdsPlugin.registerNativeAdFactory(
+        self, factoryId: "adFactoryExample", nativeAdFactory: NativeAdFactory())
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
 }

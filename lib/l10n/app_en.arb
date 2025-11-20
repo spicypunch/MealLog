@@ -1,0 +1,17 @@
+{
+  "appTitle": "Meal Log",
+  "enterFoodNameTitle": "Please enter the food name",
+  "defaultFoodName": "Food",
+  "skip": "Skip",
+  "confirm": "Confirm",
+  "cameraPermissionRequired": "Camera permission is required.",
+  "photoSaved": "Photo saved!",
+  "errorOccurred": "Error occurred: {error}",
+  "permissionRequiredTitle": "Permission Required",
+  "permissionRequiredContent": "Storage/Photo permission is required to save photos. Please enable it in app settings.",
+  "cancel": "Cancel",
+  "openSettings": "Open Settings",
+  "noPhotosMessage": "No photos yet.\nTap the camera button below to log your first meal!",
+  "processingPhoto": "Processing photo...",
+  "dateFormat": "MMM d, yy h:mm a"
+}
