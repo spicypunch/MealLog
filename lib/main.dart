@@ -357,7 +357,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
         title: Text(AppLocalizations.of(context)!.appTitle),
-        backgroundColor: Colors.green,
+        backgroundColor: Colors.amber,
         foregroundColor: Colors.white,
       ),
       body: Stack(
